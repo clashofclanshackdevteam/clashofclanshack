@@ -21,7 +21,7 @@ Thank you for the splendid graphics by [Raissa](https://twitter.com/rpellos)
 * Adobe Dreamweaver
 
 ## Libraries Used
-A little jQuerrt and DOM manipulators, but all the Code, Frameworks and Physics was custom built.
+A little jQuery and DOM manipulators, but all the Code, Frameworks and Physics was custom built.
 
 ## About Clash of Clans Hack 8 Dev Team
 

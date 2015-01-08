@@ -24,3 +24,11 @@ Thank you for the splendid graphics by [Raissa](https://twitter.com/rpellos)
 A little jQuerrt and DOM manipulators, but all the Code, Frameworks and Physics was custom built.
 
 ## About Clash of Clans Hack 8 Dev Team
+
+The Dev Team all are college friends coming from the same university and major, At our spare time we like hanging out together and play different computer games on consoles, PC's and mobile devices. We started playing Ragnarok back in 2010 in the PC when it was the trending and must play game at that time, then we went to play DOTA and now we are hooked in playing Clash of Clans.
+
+After graduation most of us didn't like the idea of working for a company, it wasn't as fun as we thought it would be. We felt that we can do better on our own so we decided to make a company for ourselves hence the Clash of Clans Hack 8 Dev Team is born.
+
+After a whirlwind of 4 months we ended up with what we believe is the best generator for gold, elixir, dark elixir and gems for clash. We would like to share it to the world!
+
+Wish us luck!

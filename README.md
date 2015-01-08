@@ -13,12 +13,12 @@ Thank you for the splendid graphics by [Raissa](https://twitter.com/rpellos)
 
 ## Programs Used to Develop The Software
 
-*Visual Studio 2013
-*Notepad++
-*Filezilla
-*Adobe Illustrator
-*Adobe Fireworks
-*Adobe Dreamweaver
+* Visual Studio 2013
+* Notepad++
+* Filezilla
+* Adobe Illustrator
+* Adobe Fireworks
+* Adobe Dreamweaver
 
 ## Libraries Used
 A little jQuerrt and DOM manipulators, but all the Code, Frameworks and Physics was custom built.

@@ -32,3 +32,5 @@ After graduation most of us didn't like the idea of working for a company, it wa
 After a whirlwind of 4 months we ended up with what we believe is the best generator for gold, elixir, dark elixir and gems for clash. We would like to share it to the world!
 
 Wish us luck!
+
+**[Visit our Website](http://www.clashofclanshack8.com/)**
